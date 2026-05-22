@@ -13,7 +13,7 @@ const WHATSAPP = "https://wa.me/33617457600";
 const FORMSPREE_ID = "xqejbqoe";
 
 /* ── PARFUMS pour le popup ─────────────────────────────────── */
-const PARFUM_NAMES = ["L"Insoumise", "L"Adorée", "L"Extraterrestre", "La Radieuse", "L"Envoûtante", "La Mythique", "L"Éphémère", "L"Éclatante", "La Parisienne", "La Sobre Élégance", "La Ténébreuse", "L"Irrésistible", "La Source Joyeuse", "La Signorina", "La Chanceuse", "La Petite Reine", "La Paradoxale", "La Chloée", "L"Audacieux", "L"Horizon", "L"Ardent", "Le Téméraire", "Le Séducteur", "Le Nocturne", "L"Ancré", "L"Épicé Rebelle", "Le Souverain", "Le Raffiné", "L"Indomptable", "Le Murmure Boisé", "L"Orchidée Noire", "Le Patchouli Sacré", "L"Oud Blanc", "Le Café Intense", "L"Universel", "Aventus Pour Elle", "La Conquérante", "La Flâneuse", "L"Affranchie", "Le Rouge 540", "La Cerise Perdue", "L"Absolument Fabuleuse", "La Vanille Fatale", "L"Ombre Errante", "L"Écorce Argentée", "La Pêche Amère", "Le Cuir Rebelle", "Summer Dream (Brume)", "Pacific Aura (Brume)", "Tropical Breeze (Brume)", "Golden Hour (Brume)", "Brazilian Sunset (Brume)"];
+const PARFUM_NAMES = ["L’Insoumise", "L’Adorée", "L’Extraterrestre", "La Radieuse", "L’Envoûtante", "La Mythique", "L’Éphémère", "L’Éclatante", "La Parisienne", "La Sobre Élégance", "La Ténébreuse", "L’Irrésistible", "La Source Joyeuse", "La Signorina", "La Chanceuse", "La Petite Reine", "La Paradoxale", "La Chloée", "L’Audacieux", "L'Horizon", "L’Ardent", "Le Téméraire", "Le Séducteur", "Le Nocturne", "L’Ancré", "L’Épicé Rebelle", "Le Souverain", "Le Raffiné", "L’Indomptable", "Le Murmure Boisé", "L’Orchidée Noire", "Le Patchouli Sacré", "L’Oud Blanc", "Le Café Intense", "L’Universel", "Aventus Pour Elle", "La Conquérante", "La Flâneuse", "L’Affranchie", "Le Rouge 540", "La Cerise Perdue", "L’Absolument Fabuleuse", "La Vanille Fatale", "L’Ombre Errante", "L’Écorce Argentée", "La Pêche Amère", "Le Cuir Rebelle", "Summer Dream (Brume)", "Pacific Aura (Brume)", "Tropical Breeze (Brume)", "Golden Hour (Brume)", "Brazilian Sunset (Brume)"];
 
 /* ── TRANSLATIONS ─────────────────────────────────────────── */
 const T = {
@@ -173,18 +173,18 @@ const T = {
 /* ── PERFUMES ─────────────────────────────────────────────── */
 const perfumes = {
   femme:[
-    {num:"006",name:"L'Insoumise",family:"Floral Fruité Intense",notes:{tete:"Agrumes, baies noires",coeur:"Rose, iris",fond:"Vanille, musc boisé"},price:35,size:70},
-    {num:"007",name:"L'Adorée",family:"Floral Fruité Glamour",notes:{tete:"Poire, amande",coeur:"Rose, jasmin",fond:"Vanille, patchouli"},price:35,size:70},
-    {num:"010",name:"L'Extraterrestre",family:"Floral Musc Aquatique",notes:{tete:"Bergamote, citron",coeur:"Jasmin, rose",fond:"Musc, ambre"},price:35,size:70},
+    {num:"006",name:"L’Insoumise",family:"Floral Fruité Intense",notes:{tete:"Agrumes, baies noires",coeur:"Rose, iris",fond:"Vanille, musc boisé"},price:35,size:70},
+    {num:"007",name:"L’Adorée",family:"Floral Fruité Glamour",notes:{tete:"Poire, amande",coeur:"Rose, jasmin",fond:"Vanille, patchouli"},price:35,size:70},
+    {num:"010",name:"L’Extraterrestre",family:"Floral Musc Aquatique",notes:{tete:"Bergamote, citron",coeur:"Jasmin, rose",fond:"Musc, ambre"},price:35,size:70},
     {num:"019",name:"La Radieuse",family:"Floral Fruité Lumineux",notes:{tete:"Bergamote, mandarine",coeur:"Rose, jasmin",fond:"Musc blanc, santal"},price:35,size:70},
-    {num:"023",name:"L'Envoûtante",family:"Oriental Épicé",notes:{tete:"Fruits rouges, poivre",coeur:"Pivoine, orchidée",fond:"Musc, santal"},price:35,size:70},
+    {num:"023",name:"L’Envoûtante",family:"Oriental Épicé",notes:{tete:"Fruits rouges, poivre",coeur:"Pivoine, orchidée",fond:"Musc, santal"},price:35,size:70},
     {num:"024",name:"La Mythique",family:"Floral Aldéhydé Poudré",notes:{tete:"Aldéhydes, ylang-ylang",coeur:"Jasmin, rose de mai",fond:"Civette, musc, santal"},price:35,size:70},
-    {num:"025",name:"L'Éphémère",family:"Floral Musqué Délicat",notes:{tete:"Bergamote, pamplemousse rose",coeur:"Musc, fleurs blanches",fond:"Cèdre, musc doux"},price:35,size:70},
-    {num:"042",name:"L'Éclatante",family:"Floral Iris Gourmand",notes:{tete:"Cassis, poire",coeur:"Iris, jasmin",fond:"Patchouli, vanille, musc"},price:35,size:70},
+    {num:"025",name:"L’Éphémère",family:"Floral Musqué Délicat",notes:{tete:"Bergamote, pamplemousse rose",coeur:"Musc, fleurs blanches",fond:"Cèdre, musc doux"},price:35,size:70},
+    {num:"042",name:"L’Éclatante",family:"Floral Iris Gourmand",notes:{tete:"Cassis, poire",coeur:"Iris, jasmin",fond:"Patchouli, vanille, musc"},price:35,size:70},
     {num:"051",name:"La Parisienne",family:"Floral Poudré Chypré",notes:{tete:"Orange, mandarine",coeur:"Rose, jasmin, iris",fond:"Patchouli, vétiver"},price:35,size:70},
     {num:"053",name:"La Sobre Élégance",family:"Floral Musqué Pur",notes:{tete:"Gardénia, rose",coeur:"Musc, cèdre",fond:"Ambre, musc blanc"},price:35,size:70},
     {num:"055",name:"La Ténébreuse",family:"Oriental Épicé Intense",notes:{tete:"Baies, safran",coeur:"Rose noire, fleurs sombres",fond:"Vanille, musc"},price:35,size:70},
-    {num:"071",name:"L'Irrésistible",family:"Floral Oriental Chaud",notes:{tete:"Bergamote, pamplemousse",coeur:"Rose, magnolia",fond:"Vanille, vétiver, santal"},price:35,size:70},
+    {num:"071",name:"L’Irrésistible",family:"Floral Oriental Chaud",notes:{tete:"Bergamote, pamplemousse",coeur:"Rose, magnolia",fond:"Vanille, vétiver, santal"},price:35,size:70},
     {num:"076",name:"La Source Joyeuse",family:"Floral Aquatique Frais",notes:{tete:"Menthe poivrée, pêche",coeur:"Rose, pivoine",fond:"Cèdre, musc"},price:35,size:70},
     {num:"082",name:"La Signorina",family:"Fruité Floral Élégant",notes:{tete:"Litchi, pêche",coeur:"Pivoine, rose",fond:"Patchouli, musc"},price:35,size:70},
     {num:"085",name:"La Chanceuse",family:"Floral Boisé Élégant",notes:{tete:"Citron, ananas",coeur:"Rose, jasmin",fond:"Cèdre, patchouli, musc"},price:35,size:70},
@@ -193,37 +193,37 @@ const perfumes = {
     {num:"153W",name:"La Chloée",family:"Floral Poudré Doux",notes:{tete:"Pivoine, lychee",coeur:"Rose, magnolia",fond:"Cèdre, ambre"},price:35,size:70},
   ],
   homme:[
-    {num:"001",name:"L'Audacieux",family:"Fruité Boisé Frais",notes:{tete:"Pamplemousse, menthe",coeur:"Rose, cannelle",fond:"Patchouli, cuir, musc"},price:35,size:70},
+    {num:"001",name:"L’Audacieux",family:"Fruité Boisé Frais",notes:{tete:"Pamplemousse, menthe",coeur:"Rose, cannelle",fond:"Patchouli, cuir, musc"},price:35,size:70},
     {num:"002",name:"L'Horizon",family:"Aquatique Marin Frais",notes:{tete:"Bergamote, néroli",coeur:"Jasmin, romarin",fond:"Cèdre, musc, ambre"},price:35,size:70},
-    {num:"003",name:"L'Ardent",family:"Boisé Cuir Chaud",notes:{tete:"Mandarine, lavande",coeur:"Violette, muscade",fond:"Cèdre, musc, cuir"},price:35,size:70},
+    {num:"003",name:"L’Ardent",family:"Boisé Cuir Chaud",notes:{tete:"Mandarine, lavande",coeur:"Violette, muscade",fond:"Cèdre, musc, cuir"},price:35,size:70},
     {num:"012",name:"Le Téméraire",family:"Aromatique Frais Classique",notes:{tete:"Citron, bergamote",coeur:"Jasmin, hédione",fond:"Musc, vétiver"},price:35,size:70},
     {num:"016",name:"Le Séducteur",family:"Fougère Orientale",notes:{tete:"Lavande, bergamote",coeur:"Cannelle, cumin",fond:"Vanille, musc, fève tonka"},price:35,size:70},
     {num:"020",name:"Le Nocturne",family:"Boisé Épicé Sensuel",notes:{tete:"Bergamote, cardamome",coeur:"Lavande, iris",fond:"Cèdre, coumarine, musc"},price:35,size:70},
-    {num:"022",name:"L'Ancré",family:"Terreux Boisé Minéral",notes:{tete:"Orange, pamplemousse",coeur:"Poivre, géranium",fond:"Vétiver, santal"},price:35,size:70},
-    {num:"032",name:"L'Épicé Rebelle",family:"Oriental Épicé Chaud",notes:{tete:"Orange, poivre",coeur:"Girofle, muscade",fond:"Vétiver, musc"},price:35,size:70},
+    {num:"022",name:"L’Ancré",family:"Terreux Boisé Minéral",notes:{tete:"Orange, pamplemousse",coeur:"Poivre, géranium",fond:"Vétiver, santal"},price:35,size:70},
+    {num:"032",name:"L’Épicé Rebelle",family:"Oriental Épicé Chaud",notes:{tete:"Orange, poivre",coeur:"Girofle, muscade",fond:"Vétiver, musc"},price:35,size:70},
     {num:"037",name:"Le Souverain",family:"Aromatique Boisé",notes:{tete:"Bergamote, lavande",coeur:"Iris, cèdre",fond:"Patchouli, vétiver"},price:35,size:70},
     {num:"048",name:"Le Raffiné",family:"Fougère Aromatique Élégant",notes:{tete:"Citron, menthe, bergamote",coeur:"Épices, rose",fond:"Vanille, santal, cèdre"},price:35,size:70},
-    {num:"061",name:"L'Indomptable",family:"Aquatique Boisé Intense",notes:{tete:"Pamplemousse, baies marines",coeur:"Jasmin, hêtre",fond:"Ambre, chêne, musc"},price:35,size:70},
+    {num:"061",name:"L’Indomptable",family:"Aquatique Boisé Intense",notes:{tete:"Pamplemousse, baies marines",coeur:"Jasmin, hêtre",fond:"Ambre, chêne, musc"},price:35,size:70},
     {num:"138",name:"Le Murmure Boisé",family:"Boisé Ambré Mystérieux",notes:{tete:"Bergamote, safran",coeur:"Oud, santal",fond:"Musc, ambre, cuir"},price:35,size:70},
   ],
   mixte:[
-    {num:"054",name:"L'Orchidée Noire",family:"Floral Oriental Mystérieux",notes:{tete:"Truffe noire, bergamote",coeur:"Orchidée, ylang-ylang",fond:"Vanille, santal, patchouli"},price:35,size:70},
+    {num:"054",name:"L’Orchidée Noire",family:"Floral Oriental Mystérieux",notes:{tete:"Truffe noire, bergamote",coeur:"Orchidée, ylang-ylang",fond:"Vanille, santal, patchouli"},price:35,size:70},
     {num:"072",name:"Le Patchouli Sacré",family:"Terreux Boisé Profond",notes:{tete:"Bergamote, rose",coeur:"Patchouli, oud",fond:"Musc, ambre"},price:35,size:70},
-    {num:"080",name:"L'Oud Blanc",family:"Oriental Boisé Luxueux",notes:{tete:"Rose, safran",coeur:"Oud, santal",fond:"Ambre, musc blanc"},price:35,size:70},
+    {num:"080",name:"L’Oud Blanc",family:"Oriental Boisé Luxueux",notes:{tete:"Rose, safran",coeur:"Oud, santal",fond:"Ambre, musc blanc"},price:35,size:70},
     {num:"105",name:"Le Café Intense",family:"Gourmand Oriental",notes:{tete:"Café, bergamote",coeur:"Fleurs blanches",fond:"Musc, vanille, cèdre"},price:35,size:70},
-    {num:"155U",name:"L'Universel",family:"Aquatique Citronné Unisexe",notes:{tete:"Citron, mandarine, ananas",coeur:"Jasmin, muguet",fond:"Musc, ambre doux"},price:35,size:70},
+    {num:"155U",name:"L’Universel",family:"Aquatique Citronné Unisexe",notes:{tete:"Citron, mandarine, ananas",coeur:"Jasmin, muguet",fond:"Musc, ambre doux"},price:35,size:70},
   ],
   luxury:[
     {num:"093",name:"Aventus Pour Elle",family:"Fruité Floral Chypré",notes:{tete:"Ananas, bergamote, pomme",coeur:"Jasmin, rose, patchouli",fond:"Musc, oakmoss, ambre"},price:57,size:70,tag:"BEST-SELLER"},
     {num:"131",name:"La Conquérante",family:"Floral Gourmand Sophistiqué",notes:{tete:"Amande, baies roses",coeur:"Jasmin Sambac, Tubéreuse",fond:"Fève tonka, cacao, vétiver"},price:48,size:70,tag:"COUP DE CŒUR"},
-    {num:"132",name:"La Flâneuse",family:"Floral Boisé Musqué",notes:{tete:"Bergamote, fleur d'oranger",coeur:"Magnolia, jasmin",fond:"Musc blanc, cèdre, vanille"},price:45,size:70},
-    {num:"122",name:"L'Affranchie",family:"Floral Fruité Rebelle",notes:{tete:"Mandarine, poivre rose",coeur:"Fleur d'oranger, jasmin",fond:"Ambre, cèdre, musc"},price:48,size:70},
+    {num:"132",name:"La Flâneuse",family:"Floral Boisé Musqué",notes:{tete:"Bergamote, fleur d’oranger",coeur:"Magnolia, jasmin",fond:"Musc blanc, cèdre, vanille"},price:45,size:70},
+    {num:"122",name:"L’Affranchie",family:"Floral Fruité Rebelle",notes:{tete:"Mandarine, poivre rose",coeur:"Fleur d’oranger, jasmin",fond:"Ambre, cèdre, musc"},price:48,size:70},
     {num:"118",name:"Le Rouge 540",family:"Floral Rose Oriental",notes:{tete:"Litchi, pamplemousse, rose",coeur:"Rose centifolia, jasmin",fond:"Ambre, musc, patchouli"},price:52,size:50,tag:"ICONIQUE"},
     {num:"111",name:"La Cerise Perdue",family:"Fruité Oriental Gourmand",notes:{tete:"Cerise noire, prune",coeur:"Rose, jasmin",fond:"Benjoin, santal, ambre"},price:52,size:50,tag:"COUP DE CŒUR"},
-    {num:"106",name:"L'Absolument Fabuleuse",family:"Floral Fruité Luxueux",notes:{tete:"Mandarine, prune",coeur:"Jasmin, tubéreuse",fond:"Santal, musc"},price:52,size:50},
+    {num:"106",name:"L’Absolument Fabuleuse",family:"Floral Fruité Luxueux",notes:{tete:"Mandarine, prune",coeur:"Jasmin, tubéreuse",fond:"Santal, musc"},price:52,size:50},
     {num:"117",name:"La Vanille Fatale",family:"Gourmand Oriental Envoûtant",notes:{tete:"Bergamote, safran",coeur:"Vanille, patchouli",fond:"Labdanum, musc"},price:52,size:50},
-    {num:"114",name:"L'Ombre Errante",family:"Oriental Boisé Oud Profond",notes:{tete:"Baies roses, bergamote",coeur:"Oud, rose",fond:"Santal, patchouli"},price:48,size:50},
-    {num:"135",name:"L'Écorce Argentée",family:"Boisé Iris Poudré Précieux",notes:{tete:"Iris, musc",coeur:"Encens, bois de rose",fond:"Bois blanc, ambre doux"},price:48,size:50},
+    {num:"114",name:"L’Ombre Errante",family:"Oriental Boisé Oud Profond",notes:{tete:"Baies roses, bergamote",coeur:"Oud, rose",fond:"Santal, patchouli"},price:48,size:50},
+    {num:"135",name:"L’Écorce Argentée",family:"Boisé Iris Poudré Précieux",notes:{tete:"Iris, musc",coeur:"Encens, bois de rose",fond:"Bois blanc, ambre doux"},price:48,size:50},
     {num:"134",name:"La Pêche Amère",family:"Fruité Floral Moderne",notes:{tete:"Pêche, bergamote",coeur:"Iris, jasmin",fond:"Cèdre, musc ambré"},price:52,size:50},
     {num:"142",name:"Le Cuir Rebelle",family:"Boisé Cuir Intense Mystérieux",notes:{tete:"Cardamome, poivre, sauge",coeur:"Cuir, patchouli, iris",fond:"Santal, vétiver"},price:57,size:50},
   ],
